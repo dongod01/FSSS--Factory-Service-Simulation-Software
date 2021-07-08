@@ -1,0 +1,55 @@
+Test Case 1:
+Passed succesfully.
+Test Case 2
+Failed due to:
+     MTTF can't be zero or negative!
+Test Case 3
+Failed due to:
+     MTTF can't be zero or negative!
+Test Case 4:
+Passed succesfully.
+Test Case 5
+Failed due to:
+     Machine quantity can't be greater than 1000!
+Test Case 6:
+Passed succesfully.
+Test Case 7
+Failed due to:
+     MTTF can't be zero or negative!   
+Test Case 8
+Failed due to:
+     MTTF can't be zero or negative!   
+Test Case 9
+Failed due to:
+     Repair time can't be greater than 50 days!   
+Test Case 10
+Failed due to:
+     Machine quantity can't be greater than 1000!   
+Test Case 11:
+Passed succesfully.
+Test Case 12
+Failed due to:
+     Adjuster quantity can't be greater than 1000!
+Test Case 13
+Failed due to:
+     Adjuster quantity can't be zero or negative!
+Test Case 14
+Failed due to:
+     Adjuster quantity can't be zero or negative!
+Test Case 15:
+Passed succesfully.
+Test Case 16
+Failed due to:
+     Adjuster quantity can't be greater than 1000!   
+Test Case 17
+Failed due to:
+     Adjuster quantity can't be zero or negative!   
+Test Case 18
+Failed due to:
+     Adjuster quantity can't be zero or negative!   
+Test Case 19:
+Failed due to:
+     Password Criteria not passed  
+Test Case 20:
+Failed due to:
+     Password Criteria not passed  

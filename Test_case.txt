@@ -1,0 +1,108 @@
+Test Case 1:
+MachineType:
+a
+12
+32
+50
+Test Case 2:
+MachineType:
+b
+-4
+22
+100
+Test Case 3:
+MachineType:
+c
+0
+13
+60
+Test Case 4:
+MachineType:
+d
+34
+100
+90
+Test Case 5:
+MachineType:
+e
+7
+5
+1001
+Test Case 6:
+Machine:
+a
+12
+32
+50
+Test Case 7:
+Machine:
+b
+-4
+22
+100
+Test Case 8:
+Machine:
+c
+0
+13
+60
+Test Case 9:
+Machine:
+d
+34
+219
+90
+Test Case 10:
+Machine:
+e
+7
+5
+1001
+Test Case 11:
+AdjusterType:
+a
+Lathe,Turning
+12
+Test Case 12:
+AdjusterType:
+b
+Lathe
+1001
+Test Case 13:
+AdjusterType:
+c
+Lathe,Turning
+-5
+Test Case 14:
+AdjusterType:
+d
+Lathe
+0
+Test Case 15:
+Adjuster:
+a
+Lathe,Turning
+12
+Test Case 16:
+Adjuster:
+b
+Lathe
+1001
+Test Case 17:
+Adjuster:
+c
+Lathe,Turning
+-5
+Test Case 18:
+Adjuster:
+d
+Lathe
+0
+Test Case 19:
+ServiceManager:
+a
+ab
+Test Case 20:
+ServiceManager:
+be
+cdf
